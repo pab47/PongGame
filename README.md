@@ -6,7 +6,7 @@ The students were given MATLAB code for a single player pong game that had basic
 
 A 7-minute video explaining what the students need to do is here: https://youtu.be/IGi68llXzyo
 
-For project instructions see the file: pong_instructions.pdf
-The incomplete version of the pong (given to the students): pong_basic_incomplete.m
-The completed basic version of the pong game (use arrow keys left/right/bottom to move the paddle): pong_basic.m
-The students submissions to the advanced version are in the folder: pong_project_submissions
+-For project instructions see the file: pong_instructions.pdf
+-The incomplete version of the pong (given to the students): pong_basic_incomplete.m
+-The completed basic version of the pong game (use arrow keys left/right/bottom to move the paddle): pong_basic.m
+-The students submissions to the advanced version are in the folder: pong_project_submissions
